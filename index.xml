@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 15:13:23 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstArticle</title>
+      <link>/posts/myfirstarticle/</link>
+      <pubDate>Sat, 01 Jul 2023 15:13:23 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticle/</guid>
+      <description>
+        
+          
+            这是我第一次建立博客并且发布第一篇文章，在这个过程中遇到了一些问题。首先，程序下错版本和电脑不匹配。其次，是在安装hugo后没有解压，导致环境配置时地址错误。解决方法是根据电脑配置找到hugo合适的版本并安装，在遇到环境配置错误的情况下，返回上一步对文件进行压缩，再重新进行配置。 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
